@@ -4,4 +4,4 @@ I am a self-taught medical data analyst who specializes in home health and is pa
 
 As I am currently breaking out into this role, I am excited to learn more and expand my skills.
 
-<img src="desktop/tango.png" alt="tango" />/> <strong>Skills:</strong> Excel, Power BI, Quadient
+<img src="tango.png" alt="tango" />/> <strong>Skills:</strong> Excel, Power BI, Quadient
