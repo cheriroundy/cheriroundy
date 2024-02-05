@@ -6,4 +6,4 @@ As I am currently breaking out into this role, I am excited to learn more and ex
 
 <strong>Skills:</strong> Excel, Power BI, Quadient
 
-<strong>Hobbies:</strong< Basketball, softball, wood working
+<strong>Hobbies:</strong> Basketball, softball, woodworking
